@@ -122,19 +122,33 @@ La mayoría de casos se agrupan en la categoría *Low* de presión arterial, lo 
 ## 📁 Estructura del repositorio
 
 DiabetesAnalytics/
+
 ├── data/
+
 │   └── diabetes.csv           # Dataset original (Pima Indians Diabetes)
+
 ├── image/
+
 │   ├── dashboard.gif          # Demostración animada del dashboard
+
 │   ├── d1.png                 # Captura — Executive Summary
+
 │   ├── d2.png                 # Captura — Risk Factor Analysis
+
 │   └── d3.png                 # Captura — Demographic Analysis
+
 ├── notebook/
+
 │   └── changes.ipynb     # Limpieza de datos en Python
+
 ├── theme/
+
 │   └── diabetes_theme.json    # Tema personalizado de Power BI
+
 ├── diabetes.pbix              # Archivo Power BI
+
 ├── LICENSE
+
 └── README.md
 
 ---
@@ -148,7 +162,7 @@ DiabetesAnalytics/
 
 ---
 
-## ## 📄 Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la licencia [GPL-3.0](LICENSE).
 
