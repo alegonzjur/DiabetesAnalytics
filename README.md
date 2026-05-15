@@ -5,7 +5,7 @@
 
 Dashboard interactivo desarrollado con Power BI para el análisis exploratorio del dataset **Pima Indians Diabetes**. El objetivo es identificar los principales factores de riesgo asociados a la diabetes tipo 2 en una población específica de mujeres adultas, apoyando la comprensión clínica y epidemiológica de la enfermedad.
 
-![DemostraciónDashboard](image/dashboard.gif)
+![DemostraciónDashboard](image/DiabetesDashboard.gif)
 
 ---
 
